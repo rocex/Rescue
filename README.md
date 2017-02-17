@@ -4,23 +4,6 @@
 
 <H2 
 style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; BORDER-BOTTOM: rgb(238,238,238) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0.3em; MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><A 
-aria-hidden=true id=user-content-技术架构 class=anchor 
-style="BOX-SIZING: border-box; FLOAT: left; COLOR: rgb(64,120,192); MARGIN-LEFT: -20px; TEXT-DECORATION: none; LINE-HEIGHT: 1; PADDING-RIGHT: 4px; BACKGROUND-COLOR: transparent" 
-href=""><SVG aria-hidden=true 
-class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" 
-width="16"><PATH 
-d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></PATH></SVG></A>技术架构 
-</H2>
-<DIV>
-<P 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; COLOR: rgb(51,51,51); MARGIN-TOP: 0px; LINE-HEIGHT: 24px">整个技术框架在保证各组件兼容性和版本成熟度的前提下，尽可能采用相应最新版本。以下是主要技术组件列表，供参考。 
-各组件版本有可能会根据重构优化进行变更，此文档中列举的版本号仅供参考，具体请参考工程 pom.xml 中的定义。 </P>
-<P 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; COLOR: rgb(51,51,51); MARGIN-TOP: 0px; LINE-HEIGHT: 24px">为了全面理解和掌握整个开发框架体系，达到灵活应用的程度，建议对这些组件能逐一的有所研究和掌握。 
-尤其对于标记为重要程度较高的技术点，需要仔细理解掌握。 
-注意：重要程度并不代表组件本身的技术复杂度或重要性，主要是用于大致标识其对于开发人员在开发过程会比较直接面对的技术点。 </P>
-<H2 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; BORDER-BOTTOM: rgb(238,238,238) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0.3em; MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><A 
 aria-hidden=true id=user-content-javajee核心组件 class=anchor 
 style="BOX-SIZING: border-box; FLOAT: left; COLOR: rgb(64,120,192); MARGIN-LEFT: -20px; TEXT-DECORATION: none; LINE-HEIGHT: 1; PADDING-RIGHT: 4px; BACKGROUND-COLOR: transparent" 
 href=""><SVG 
