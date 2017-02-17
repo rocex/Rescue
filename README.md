@@ -4,32 +4,6 @@
 
 <H2 
 style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; BORDER-BOTTOM: rgb(238,238,238) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0.3em; MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><A 
-aria-hidden=true id=user-content-框架特色 class=anchor 
-style="BOX-SIZING: border-box; FLOAT: left; COLOR: rgb(64,120,192); MARGIN-LEFT: -20px; TEXT-DECORATION: none; LINE-HEIGHT: 1; PADDING-RIGHT: 4px; BACKGROUND-COLOR: transparent" 
-href=""><SVG aria-hidden=true 
-class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" 
-width="16"><PATH 
-d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></PATH></SVG></A>框架特色 
-</H2>
-<UL 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; COLOR: rgb(51,51,51); PADDING-LEFT: 2em; MARGIN-TOP: 0px; LINE-HEIGHT: 24px">
-  <LI style="BOX-SIZING: border-box">面向主流企业级WEB应用系统的界面和常用基础功能设计实现 
-  <LI style="BOX-SIZING: border-box; MARGIN-TOP: 0.25em">主体基于主流的（Spring MVC + 
-  Spring3 + Hibernate4）架构 
-  <LI 
-  style="BOX-SIZING: border-box; MARGIN-TOP: 0.25em">引入JPA、Spring-Data-JPA提升持久层架构规范性和开发效率 
-
-  <LI 
-  style="BOX-SIZING: border-box; MARGIN-TOP: 0.25em">基于流行JQuery/Bootstrap等UI框架和插件整合，良好的浏览器兼容性和移动设备访问支持 
-
-  <LI 
-  style="BOX-SIZING: border-box; MARGIN-TOP: 0.25em">提供一个基础的代码生成框架，简化实现快速基本的CRUD功能开发 
-
-  <LI 
-  style="BOX-SIZING: border-box; MARGIN-TOP: 0.25em">基于Maven的项目和组件依赖管理模式，便捷高效的与持续集成开发集成 
-  </LI></UL>
-<H2 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; BORDER-BOTTOM: rgb(238,238,238) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0.3em; MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><A 
 aria-hidden=true id=user-content-技术架构 class=anchor 
 style="BOX-SIZING: border-box; FLOAT: left; COLOR: rgb(64,120,192); MARGIN-LEFT: -20px; TEXT-DECORATION: none; LINE-HEIGHT: 1; PADDING-RIGHT: 4px; BACKGROUND-COLOR: transparent" 
 href=""><SVG aria-hidden=true 
