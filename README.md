@@ -1,51 +1,7 @@
 <META content="text/html; charset=unicode" http-equiv=Content-Type>
 <META name=GENERATOR content="MSHTML 10.00.9200.16866"></HEAD>
 <BODY>
-<H2 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; BORDER-BOTTOM: rgb(238,238,238) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0.3em; MARGIN-TOP: 0px !important; LINE-HEIGHT: 1.25">项目简介 
-</H2>
-<P 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; COLOR: rgb(51,51,51); MARGIN-TOP: 0px; LINE-HEIGHT: 24px">汇集当前主流开发技术，充分借鉴<A 
-href="https://github.com/springside"  target= "_blank">SpringSide</A>的核心设计思想，取其精华去其糟粕，在前人的基础上融汇自己的观点，搭建出一个更便于上手的开源后端管理系统。提供一个J2EE相关主流开源技术架构整合及一些企业应用基础通用功能和组件的设计实现的最佳实践和原型参考，在代码编写上秉承简单而不简约的选材思路，将内心热衷的单一职责原则贯彻到底，做到模块化设计，流水线式生产，实现高内聚，低耦合的指导方针，让每个类“专注做一件事”。</P>
-<H3 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 1.25em; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; COLOR: rgb(51,51,51); MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><A 
-aria-hidden=true id=user-content-项目托管同步更新站点列表 class=anchor 
-style="BOX-SIZING: border-box; FLOAT: left; COLOR: rgb(64,120,192); MARGIN-LEFT: -20px; TEXT-DECORATION: none; LINE-HEIGHT: 1; PADDING-RIGHT: 4px; BACKGROUND-COLOR: transparent" 
-href="https://github.com/smilesman/SpringSharpt#项目托管同步更新站点列表"><SVG 
-aria-hidden=true class="octicon octicon-link" height="16" version="1.1" 
-viewbox="0 0 16 16" width="16"><PATH 
-d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></PATH></SVG></A>项目托管同步更新站点列表： 
-</H3>
-<P 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; MARGIN-TOP: 0px; LINE-HEIGHT: 24px"><SPAN 
-style="BOX-SIZING: border-box; FONT-WEIGHT: 600"><A 
-style="BOX-SIZING: border-box; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent" 
-href="https://github.com/smilesman/SpringSharp"><SPAN 
-style="COLOR: #3333ff"><FONT 
-face=Consolas><U>https://github.com/smilesman/SpringSharp</U></FONT></SPAN></A></SPAN> 
-</P>
-<P 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; MARGIN-TOP: 0px; LINE-HEIGHT: 24px"><SPAN 
-style="BOX-SIZING: border-box; FONT-WEIGHT: 600"><SPAN style="COLOR: #3333ff"><A 
-href="http://www.svnchina.com/svn/springsharp"><FONT face=Consolas><SPAN 
-style="BOX-SIZING: border-box">http://www.svnchina.com/</SPAN>SpringSharp</FONT></A></SPAN></SPAN> 
-</P>
-<H3 
-style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-SIZE: 1.25em; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><SPAN 
-style="COLOR: rgb(51,51,51)"><A aria-hidden=true 
-id=user-content-个人空间- class=anchor 
-style="BOX-SIZING: border-box; FLOAT: left; COLOR: rgb(64,120,192); MARGIN-LEFT: -20px; TEXT-DECORATION: none; LINE-HEIGHT: 1; PADDING-RIGHT: 4px; BACKGROUND-COLOR: transparent" 
-href="https://github.com/smilesman/SpringSharp#个人空间-"><SVG 
-aria-hidden=true class="octicon octicon-link" height="16" version="1.1" 
-viewbox="0 0 16 16" width="16"><PATH 
-d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></PATH></SVG></A>个人空间：</SPAN><SPAN 
-style="COLOR: #3333ff">&nbsp;<A href="http://xinglingxiao.com"><SPAN 
-style="BOX-SIZING: border-box">http://</SPAN>xinglingxiao.com</A></SPAN> </H3>
-<BLOCKQUOTE 
-style="BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; COLOR: rgb(119,119,119); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 1em; MARGIN: 0px 0px 16px; BORDER-LEFT: rgb(221,221,221) 0.25em solid; LINE-HEIGHT: 24px; PADDING-RIGHT: 1em">
-  <P style="BOX-SIZING: border-box; MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><SPAN 
-  style="BOX-SIZING: border-box; FONT-WEIGHT: 600">提示</SPAN>：为了方便用户区分链接资源是外部和内部，文档特别以⇒标识：链接前面有此图标说明是外部链接，如果你已经熟悉相关概念可以忽略点击；没有此标识说明是文档内部链接，建议点击访问以完整查阅项目文档。 
-  </P></BLOCKQUOTE>
+
 <H2 
 style="BOX-SIZING: border-box; MARGIN-BOTTOM: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; BORDER-BOTTOM: rgb(238,238,238) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0.3em; MARGIN-TOP: 24px; LINE-HEIGHT: 1.25"><A 
 aria-hidden=true id=user-content-框架特色 class=anchor 
